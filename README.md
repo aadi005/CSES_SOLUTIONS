@@ -25,8 +25,6 @@ cses-solutions/
 └── README.md
 ```
 
-Each file is named as: `cses_<problem-name>.py` or `cses_<problem-name>.cpp`
-
 ---
 
 ## Goals
