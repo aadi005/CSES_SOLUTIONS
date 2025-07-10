@@ -7,7 +7,7 @@ This repository contains my ongoing solutions to the [CSES Problem Set](https://
 ## About the Project
 
 - Solving problems regularly to improve my algorithms and data structures skills.
-- Solutions are written in Python/C++ (depending on problem nature).
+- Solutions are written in C++.
 - The repository is updated **daily**, with clean, commented code wherever applicable.
 - Categorized by CSES sections (Introductory, Sorting, DP, Graphs, etc.).
 
