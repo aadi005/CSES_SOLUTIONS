@@ -1,0 +1,12 @@
+DSA Resources for CSES and Competitive Programming Practice
+------------------------------------------------------------
+
+1. Striver's A2Z DSA Sheet (Basics to Advanced)
+   - Covers all foundational DSA topics in a structured way
+   - Great for building problem-solving skills before or alongside CSES
+   - Link: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2
+
+2. Bitmasking Playlist (by CodeLibrary - Yogesh Babbar)
+   - Ideal for understanding basic to intermediate bitmask concepts
+   - Includes problem walkthroughs and code demos
+   - Link: https://youtube.com/playlist?list=PLb3g_Z8nEv1icFNrtZqByO1CrWVHLlO5g&si=IprrzFB5YIc6G_DF
