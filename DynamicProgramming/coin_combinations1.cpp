@@ -15,13 +15,17 @@ int main()
     }
     vector<int> dp(m + 1, 0);
     dp[0] = 1;
-    for (int i = 1; i <= m; i++)
+    for (int i = 0; i < m; i++)
     {
+        if (dp[i] == 0)
+        {
+            continue;
+        }
         for (int coin : coins)
         {
-            if (i - coin >= 0)
+            if (i + coin <= m)
             {
-                dp[i] = (dp[i] + dp[i - coin]) % MOD;
+                dp[i + coin] = (dp[i + coin] + dp[i]) % MOD;
             }
         }
     }
