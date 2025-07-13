@@ -20,7 +20,6 @@ cses-solutions/
 ├── Introductory/
 ├── SortingAndSearching/
 ├── DynamicProgramming/         ← ✅ Completed!
-
 ├── GraphAlgorithms/
 ├── ...
 └── README.md
