@@ -29,7 +29,8 @@ cses-solutions/
 
 ## Goals
 
-- Finish 100+ CSES problems
+- Finish 100 CSES problems ← ✅ Completed!
+  - Finish 200 CSES problems
 - Write clean, readable, and efficient code
 - Use the repo as a long-term personal CP archive
 
