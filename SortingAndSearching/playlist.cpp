@@ -16,7 +16,6 @@ int main()
         temp[i] = arr[i];
     }
 
-    // Coordinate compression
     sort(temp.begin(), temp.end());
     temp.erase(unique(temp.begin(), temp.end()), temp.end());
 
