@@ -40,8 +40,8 @@ cses-solutions/
 Clone the repository:
 
 ```bash
-git clone git@github.com:aadi005/cses-solutions.git
-cd cses-solutions
+git clone git@github.com:aadi005/cses_solutions.git
+cd cses_solutions
 ```
 
 ---
