@@ -17,7 +17,7 @@ This repository contains my ongoing solutions to the [CSES Problem Set](https://
 
 ```
 cses-solutions/
-├── Introductory/
+├── Introductory/               ← ✅ Completed!
 ├── SortingAndSearching/
 ├── DynamicProgramming/         ← ✅ Completed!
 ├── GraphAlgorithms/            ← ✅ Completed!
