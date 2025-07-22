@@ -10,8 +10,6 @@ This repository contains my ongoing solutions to the [CSES Problem Set](https://
 - Solutions are written in C++.
 - The repository is updated **daily**, with clean, commented code wherever applicable.
 - Categorized by CSES sections (Introductory, Sorting, DP, Graphs, etc.).
-- I have added a new folder name revisionQues, it contains all the questions that I found had some new trick.
-  Some question outisde of CSES are also present
 
 ---
 
